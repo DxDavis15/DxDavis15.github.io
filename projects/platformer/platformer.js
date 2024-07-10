@@ -73,8 +73,7 @@ createCannon('bottom', 600, 1000);
 createCannon('right', 600, 1000);
 createCannon('top', 700, 1000);
 createCannon('top', 225, 700);
-createCannon('left', 450, 1000)
-
+createCannon('left', 450, 1000);
 
     /////////////////////////////////////////////////
     //////////ONLY CHANGE ABOVE THIS POINT///////////
