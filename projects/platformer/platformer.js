@@ -60,10 +60,10 @@ createPlatform(175, 250, 200, 20)
     // example usage: createCollectable(type, x, y, gravity, bounce)
 createCollectable('database', 250, 625, 0.5, 0.7)
 createCollectable('database', 475, 300, 0.5, 0.7)
-createCollectable('database', 800, 420, 0.5, 0.7)
+createCollectable('max', 800, 420, 0.5, 0.7)
 createCollectable('database', 350, 575, 0.5, 0.7)
-createCollectable('database', 1100, 624, 0.5, 0.7)
-createCollectable('database', 750, 225, 0.5, 0.7)
+createCollectable('steve', 1100, 624, 0.5, 0.7)
+createCollectable('diamond', 750, 225, 0.5, 0.7)
     // TODO 3
     // Create cannons
     // You must decide the wall you want the cannon on, the position on the wall, and the time between shots in milliseconds
