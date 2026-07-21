@@ -105,7 +105,7 @@ function checkForNewDirection(event) {
 
   // FILL IN THE REST
 
-   console.log(snake.head.direction);     // uncomment me!
+   console.log(snake.head.direction);     
 }
 
 function moveSnake() {
@@ -188,8 +188,8 @@ function hasCollidedWithApple() {
 
 
 
-  return false;
-}
+  //return false;
+
 
 function handleAppleCollision() {
   // increase the score and update the score DOM element
